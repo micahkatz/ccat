@@ -2,7 +2,7 @@
 
 if [ -z "$1" ]
 then
-    echo "Usage: ccat <input file>"
+    echo "Usage: cpcl <input file>"
 else
     cat $1 | pbcopy
     echo "Copied to clipboard."

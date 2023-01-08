@@ -1,0 +1,28 @@
+{
+    "name": "cpcl",
+    "version": "1.0.0",
+    "description": "A shorthand for copying the contents of a file to the clipboard",
+    "main": "cpcl",
+    "scripts": {
+        "test": "cpcl"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/micahkatz/cpcl.git"
+    },
+    "keywords": [
+        "zsh",
+        "bash",
+        "shell",
+        "script",
+        "copy",
+        "shorthand",
+        "shortcut"
+    ],
+    "author": "Micah Katz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/micahkatz/cpcl/issues"
+    },
+    "homepage": "https://github.com/micahkatz/cpcl#readme"
+}
