@@ -1,6 +1,6 @@
 {
     "name": "cpcl",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A shorthand for copying the contents of a file to the clipboard",
     "main": "cpcl",
     "scripts": {
